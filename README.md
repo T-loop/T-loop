@@ -1,115 +1,75 @@
-# 👋 Towfiq Tokhi
+# 👋 Hi, I'm Towfiq Tokhi
 
-🚀 Backend Engineer | Full-Stack Developer | AI Enthusiast (Python)
+🚀 **PHP Backend Developer | Backend Engineer | Full-Stack Developer**
+
+---
+
+## 🐘 Main Technologies
+
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
 
 ---
 
 ## 🧠 About Me
 
-I am a **Computer Science graduate** focused on building **scalable backend systems, full-stack applications, and AI-powered solutions**.
+Computer Science graduate with experience in:
 
-I enjoy designing **clean system architectures**, developing **REST APIs**, and integrating **AI into real-world applications**.
-
----
-
-## ⚙️ Core Focus
-
-- ⚙️ Backend Development (Node.js, Java)
-- 🌐 Full-Stack Web Applications
-- 🧠 AI & Automation (Python)
-- 🔗 RESTful API Design
-- 🏗️ Microservices Architecture
-- 🗄️ Database Design & Optimization
+- 🐘 PHP Backend Development
+- 🔗 REST APIs
+- 🗄️ MySQL & PostgreSQL
+- 🌐 Full-Stack Applications
+- 🧠 Python & AI Integration
+- 🏗️ Microservice Architecture
 
 ---
 
 ## 💻 Tech Stack
 
-### ⚙️ Backend
-- 🟢 Node.js
-- ☕ Java
-- 🔌 REST APIs
-- 🏗️ Microservices
+### Backend
 
-### 🌐 Frontend
-- 🌍 HTML
-- 🎨 CSS
-- ⚡ JavaScript
-- 🔧 jQuery
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
-### 🧠 AI & Automation
-- 🐍 Python
-- 📊 Data Processing
-- 🤖 AI Integration Concepts
+### Databases
 
-### 🗄️ Databases
-- 🐘 PostgreSQL
-- 🐬 MySQL
-
-### 🛠️ Tools
-- 🔧 Git
-- 📋 Jira
-- 📚 Confluence
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 ---
 
-## 🌍 Languages
+## 🏢 Experience
 
-- 🇩🇪 German — Fluent (C2)
-- 🇬🇧 English — Fluent
-- 🇮🇷 Persian — Native
-- 🇹🇷 Turkish — Good
+### Software Developer Intern
+**Hochschule RheinMain (2025)**
 
----
-
-## 💼 Experience
-
-### 🏢 Software Developer Intern (Full-Stack)
-IT & Media Center, HSRM Wiesbaden (04/2025 – 10/2025)
-
-- 🔧 Built a **full-stack Stud.IP plugin (JavaScript, PHP, MySQL)**
-- 🎮 Developed a **quiz system with authentication & leaderboard**
-- 🧑‍💻 Implemented **admin dashboard with full CRUD functionality**
-- 📊 Built a **Python-based Excel automation tool (.exe)**
-- 🧠 Worked on concept for an **AI-based learning system**
+- 🐘 PHP 8 development
+- 🗄️ MySQL databases
+- 🔗 REST APIs
+- 🧑‍💻 Admin Dashboard
+- 🔄 CRUD Operations
+- 🎮 Quiz System
+- 🌐 Full-Stack Development
 
 ---
 
-### 🏦 SAP UI5 Cooperation Project
-Aareal Bank AG (10/2023 – 02/2024)
+## 📊 GitHub Stats
 
-- 🤝 Worked in a real IT department environment
-- 📘 Developed a **developer guideline for SAP UI5**
-- 👨‍💻 Team collaboration with professional engineers
+![Towfiq's GitHub stats](https://github-readme-stats.vercel.app/api?username=DEIN_USERNAME&show_icons=true)
 
----
-
-### 📊 Data Management Intern
-Derivatives Data Service GmbH (02/2020 – 03/2020)
-
-- 🐍 Python & PHP for data processing
-- 📁 Structured and managed financial datasets
-
----
-
-## 🎓 Education
-
-- 🎓 B.Sc. Applied Computer Science (2021 – 2026)  
-  Hochschule RheinMain, Wiesbaden
-
-- 🎓 Abitur (High School Diploma)  
-  Frobenius Gymnasium Hammelburg (2017 – 2021)
-
----
-
-## 🎯 Career Goal
-
-Actively looking for a **Backend / Full-Stack Developer position**  
-with focus on **scalable systems, APIs, and AI integration**
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DEIN_USERNAME&layout=compact)
 
 ---
 
 ## 📫 Contact
 
-- 📧 Email: towfiq.tokhi5@gmail.com  
-- 📍 Germany (Stuttgart)
+📧 towfiq.tokhi5@gmail.com  
+📍 Stuttgart, Germany
