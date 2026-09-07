@@ -1,4 +1,5 @@
-# Towfiq Tokhi 🚀 PHP Backend Developer | Full-Stack Developer | AI Enthusiast (Python)
+# Towfiq Tokhi
+PHP Backend Developer | Full-Stack Developer | AI Enthusiast (Python)
 
 ---
 
