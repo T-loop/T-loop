@@ -1,5 +1,5 @@
 # Towfiq Tokhi
-PHP Backend Developer | Full-Stack Developer | AI Enthusiast (Python)
+Backend Developer | Full-Stack Developer | AI Enthusiast (Python)
 
 ---
 
@@ -7,15 +7,14 @@ PHP Backend Developer | Full-Stack Developer | AI Enthusiast (Python)
 
 I am a **Computer Science graduate** focused on building **scalable backend systems, full-stack applications, and AI-powered solutions**.
 
-I enjoy developing **PHP backend applications**, designing **clean system architectures**, developing **REST APIs**, and integrating **AI into real-world applications**.
+I enjoy developing **backend applications**, designing **clean system architectures**, developing **REST APIs**, and integrating **AI into real-world applications**.
 
 ---
 
 ## ⚙️ Core Focus
 
-- 🐘 **PHP Backend Development**
+- 🐘 **Full-Stack Web Development**
 - ⚙️ Backend Development (PHP, Node.js, Java)
-- 🌐 Full-Stack Web Applications
 - 🧠 AI & Automation (Python)
 - 🔗 RESTful API Design
 - 🏗️ Microservices Architecture
@@ -26,7 +25,7 @@ I enjoy developing **PHP backend applications**, designing **clean system archit
 ## 💻 Tech Stack
 
 ### ⚙️ Backend
-- 🐘 **PHP**
+- 🐘 PHP
 - 🟢 Node.js
 - ☕ Java
 - 🔌 REST APIs
@@ -45,7 +44,7 @@ I enjoy developing **PHP backend applications**, designing **clean system archit
 
 ### 🗄️ Databases
 - 🐘 PostgreSQL
-- 🐬 **MySQL**
+- 🐬 MySQL
   
 ### 🛠️ Tools
 - 🔧 Git
@@ -107,7 +106,6 @@ Derivatives Data Service GmbH (02/2020 – 03/2020)
 ## 🎯 Career Goal
 
 Actively looking for a **Backend / Full-Stack Developer position**
-with focus on **PHP backend development, scalable systems, APIs, and AI integration**
 
 ---
 
